@@ -1,0 +1,52 @@
+# netflixGPT
+
+- Create react APP using Vite
+- Setup tailwind css
+- Routing
+- Header
+- Login form
+- SignUp form
+- Form validation
+- Firebase setup
+- Firebase deployment
+- Firebase authentication SignIn and SignUp
+- Create store with userSlice
+- Implement sign out functionality
+- Update profile with firebase API
+- Fixing routing issue for logged in and logged out user
+- Unsubscribe firebase onAuthChange event
+- Registered on TMDB and get API credentials
+- Fetch movie from TMDB
+- Fetch videos from TMDB
+- Custom hook for movies
+- Custom hook for trailer video
+- Update store with movies and trailer video
+- Embedded youtube video
+- Create MainContainer to show home page video
+- Create SecondaryContainer to show movie list
+- Added multiple categories like Popular, Top Rated etc.
+- Create custom hook for movies list
+- Setup unit testing
+- Added Unit test case of application
+- Create utils for header and login component
+- GPT search page
+- GPT search bar
+- Added multi language support
+- Integrated GPT API
+
+#features
+
+- SignIn/SignUp
+  - SignIn and SignUp page
+  - Post login redirect to browse page
+- Browse (Post login)
+  - Header
+    - Main movie
+      - Movie trailer in background
+      - Title and description
+      - Movie suggestion
+        - Movies List (N)
+- Netflix GPT
+  - Search bar
+  - Movie suggestion
+  - Multi language support
